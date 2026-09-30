@@ -96,8 +96,8 @@ python3 benchmark.py
 
 ### 2. Installation
 ```bash
-git clone https://github.com/mbroglio/ImageCompression.git
-cd ImageCompression
+git clone https://github.com/mbroglio/dct-image-compression.git
+cd dct-image-compression
 
 # Create virtual environment
 python3 -m venv venv
